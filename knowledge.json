@@ -1,0 +1,136 @@
+{
+  "reisen": {
+    "bahn": {
+      "co2_pro_km": 0.032,
+      "vorteile": [
+        "Niedrigste CO2-Emissionen",
+        "Produktiv während der Fahrt",
+        "Kein Stau"
+      ],
+      "tipps": [
+        "Bahncard nutzen",
+        "Frühbucher-Rabatte",
+        "2. Klasse wählen", 
+        "Joggen"
+      ]
+    },
+    "flugzeug": {
+      "co2_pro_km": 0.201,
+      "nachteile": [
+        "Höchste CO2-Emissionen",
+        "Klimaschädlich",
+        "Zeitaufwand durch Check-in"
+      ],
+      "alternativen": [
+        "Nur bei >800km Entfernung",
+        "CO2-Kompensation",
+        "Direktflüge bevorzugen"
+      ]
+    },
+    "auto": {
+      "co2_pro_km": 0.147,
+      "tipps": [
+        "Carsharing nutzen",
+        "Fahrgemeinschaften",
+        "Elektroauto bevorzugen"
+      ]
+    }
+  },
+  "meetings": {
+    "virtuell": {
+      "co2_ersparnis": "95% weniger als Präsenz",
+      "tools": [
+        "Teams",
+        "Zoom",
+        "Google Meet"
+      ],
+      "tipps": [
+        "Kamera nur wenn nötig",
+        "Bildschirm teilen statt drucken"
+      ]
+    },
+    "hybrid": {
+      "vorteile": [
+        "Flexibilität",
+        "Reduzierte Reisen",
+        "Inklusion"
+      ],
+      "best_practices": [
+        "Gute Technik",
+        "Moderation",
+        "Interaktion fördern"
+      ]
+    }
+  },
+  "buero_material": {
+    "nachhaltig": {
+      "stifte": [
+        "Holzstifte",
+        "Recycling-Kugelschreiber",
+        "Nachfüllbare Stifte"
+      ],
+      "papier": [
+        "Recyclingpapier",
+        "FSC-zertifiziert",
+        "Beidseitig drucken"
+      ],
+      "ordner": [
+        "Karton statt Plastik",
+        "Langlebige Materialien",
+        "Reparierbar"
+      ]
+    },
+    "vermeiden": [
+      "Einwegprodukte",
+      "Plastikverpackungen",
+      "Übermäßiger Verbrauch"
+    ]
+  },
+  "energie": {
+    "sparen": {
+      "computer": [
+        "Standby vermeiden",
+        "Energiespareinstellungen",
+        "Bildschirm dimmen"
+      ],
+      "beleuchtung": [
+        "LED nutzen",
+        "Tageslicht nutzen",
+        "Bewegungsmelder"
+      ],
+      "heizung": [
+        "Optimal 20-22°C",
+        "Stoßlüften",
+        "Türen schließen"
+      ]
+    }
+  },
+  "kantine": {
+    "nachhaltig": {
+      "lebensmittel": [
+        "Saisonale Produkte",
+        "Regionale Lieferanten",
+        "Bio-Qualität",
+        "Mehr vegetarische Optionen"
+      ],
+      "verpackung": [
+        "Mehrweggeschirr",
+        "Pfandsystem",
+        "Großpackungen",
+        "Vermeidung von Einwegprodukten"
+      ],
+      "abfall": [
+        "Portionsgrößen anpassen",
+        "Lebensmittelverschwendung reduzieren",
+        "Kompostierung",
+        "Abfalltrennung"
+      ]
+    },
+    "tipps": [
+      "Bedarfsgerechte Planung",
+      "Mitarbeiterschulung",
+      "Informationskampagnen",
+      "Nachhaltigkeits-Monitoring"
+    ]
+  }
+}
